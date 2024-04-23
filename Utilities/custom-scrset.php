@@ -22,4 +22,4 @@ function my_custom_sizes($sizes) {
     ));
 }
 
-        add_filter('image_size_names_choose', 'my_custom_sizes');
+add_filter('image_size_names_choose', 'my_custom_sizes');
