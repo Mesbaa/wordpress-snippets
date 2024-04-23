@@ -1,3 +1,6 @@
+/**
+ * Create custom image's values.
+ */
 add_theme_support('post-thumbnails');
 add_image_size('image-480', 480, 9999);
 add_image_size('image-640', 640, 9999);
